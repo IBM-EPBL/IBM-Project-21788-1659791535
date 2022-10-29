@@ -4,7 +4,7 @@
   <h2 align="center"> A Novel Method For Handwritten Digit Recognition <br></h2>
   </div>
  <br> 
- <h3>IBM-Project-21788-1659791535</h3>  
+ <h3>Team ID PNT2022TMID27288</h3>  
     
     
 > Your success will be determined by the manner in which you use the tools you have been given to work with.  
