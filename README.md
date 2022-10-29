@@ -60,11 +60,11 @@
     - [x] [Solution Architecture]
   - [x] [Project Design Phase - II]
     - [x] [Customer Journey Map]
-    - [x] [Functional and Non-Functional Requirements]
-    - [x] [Data Flow Diagram & User Stories]
-    - [x] [Technology Architecture]
-  - [] [Project Planning Phase]
-    - [ ] [Project Plan]
+    - [x] Functional and Non-Functional Requirements
+    - [x] Data Flow Diagram & User Stories
+    - [x] Technology Architecture
+  - [] Project Planning Phase
+    - [ ] Project Plan
 - [ ] [Project Development Phase](
   - [] [Sprint 1]
   - [ ] Sprint 2
@@ -73,6 +73,7 @@
 - [ ] Final Project
 <br>
 <!--Assignments-->
+<h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Assignments 
 </h2>
 
