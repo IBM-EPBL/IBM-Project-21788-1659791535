@@ -49,10 +49,10 @@
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
   
 - [x] Project Design & Planning
+ - [x] Ideation Phase
     - [x] Empathy Map
     - [x] Literature Survey 
-    - [x] Problem Statemeng
-    - [x] Brainstorm & Idea Prioritization
+    - [x] Problem Statement
   - [x] Project Design Phase - I
     - [x] Proposed Solution
     - [x] Problem-Solution Fit
