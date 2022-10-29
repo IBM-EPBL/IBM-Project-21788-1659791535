@@ -48,10 +48,51 @@
   <!-- tasks -->
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
   
-- [x] Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
-- [x] Assignment 1 <br>
-- [x] Assignment 2 <br>
-- [x] Assignment 3 <br>
-- [x] Assignment 4 <br>
+- [x] [Project Design & Planning]
+    - [x] [Empathy Map]
+    - [x] [Literature Survey] 
+    - [x] [Problem Statement]
+    - [x] [Use Cases]
+    - [x] [Brainstorm & Idea Prioritization]
+  - [x] [Project Design Phase - I](
+    - [x] [Proposed Solution]
+    - [x] [Problem-Solution Fit]
+    - [x] [Solution Architecture]
+  - [x] [Project Design Phase - II]
+    - [x] [Customer Journey Map]
+    - [x] [Functional and Non-Functional Requirements]
+    - [x] [Data Flow Diagram & User Stories]
+    - [x] [Technology Architecture]
+  - [] [Project Planning Phase]
+    - [ ] [Project Plan]
+- [ ] [Project Development Phase](
+  - [] [Sprint 1]
+  - [ ] Sprint 2
+  - [ ] Sprint 3
+  - [ ] Sprint 4
+- [ ] Final Project
+<br>
+<!--Assignments-->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Assignments 
+</h2>
+
+- [x] [Team Lead]
+  - [x] [Assignment 1]
+  - [x] [Assignment 2]
+  - [x] [Assignment 3]
+  - [x] [Assignment 4]
+- [x] [Team Member 1]
+  - [x] [Assignment 1]
+  - [x] [Assignment 2]
+  - [x] [Assignment 3]
+  - [x] [Assignment 4]
+- [x] [Team Member 2]
+  - [x] [Assignment 1]
+  - [x] [Assignment 2]
+  - [x] [Assignment 3]
+  - [x] [Assignment 4]
+- [x] [Team Member 3]
+  - [x] [Assignment 1]
+  - [x] [Assignment 2]
+  - [x] [Assignment 3]
+  - [x] [Assignment 4]
