@@ -51,6 +51,7 @@
 - [x] Project Design & Planning
  - [x] Ideation Phase
     - [x] Empathy Map
+    - [x] Brainstorming and Ideation
     - [x] Literature Survey 
     - [x] Problem Statement
   - [x] Project Design Phase - I
@@ -62,10 +63,11 @@
     - [x] Functional and Non-Functional Requirements
     - [x] Data Flow Diagram & User Stories
     - [x] Technology Architecture
-  - [ ] Project Planning Phase
-    - [ ] Project Plan
+  - [x] Project Planning Phase
+    - [x] Milestones and Activities 
+    - [x] Project Plan
 - [ ] Project Development Phase
-  - [ ] Sprint 1
+  - [x] Sprint 1
   - [ ] Sprint 2
   - [ ] Sprint 3
   - [ ] Sprint 4
